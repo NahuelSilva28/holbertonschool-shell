@@ -1,0 +1,2 @@
+chmod u+x
+egrep ^[[:alpha:]] /etc/ssh/sshd_config
