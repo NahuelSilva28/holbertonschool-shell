@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -iname "*.gif" | sort -f | while read -r file; do printf "%s\n" "${file%.gif}"; done
+echo "$(head -c 1 | tr -d '\n')"
