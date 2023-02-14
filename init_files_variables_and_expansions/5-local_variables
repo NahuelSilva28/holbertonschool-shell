@@ -1,2 +1,2 @@
 #!/bin/bash
-declare echo printenv echo declare -f
+set
