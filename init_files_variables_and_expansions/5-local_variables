@@ -1,2 +1,2 @@
 #!/bin/bash
-declare;printenv;declare -f | less
+declare echo printenv echo declare -f
