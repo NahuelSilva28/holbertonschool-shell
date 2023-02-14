@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p printenv typeset -F 
+declare;printenv;declare -f | less
